@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6bef2d45.css",
+    "main.js": "/static/js/main.54ea0a77.js",
+    "static/media/trove bg.png": "/static/media/trove bg.7480636da1c808673fa0.png",
+    "static/media/disoverygame.png": "/static/media/disoverygame.bf35b8a4078e56f624d5.png",
+    "static/media/Trv_bgWave_1.svg": "/static/media/Trv_bgWave_1.35d1dbf282765a7c2b13.svg",
+    "static/media/recordAsset.png": "/static/media/recordAsset.7d1a80c539d63f4b2f77.png",
+    "static/media/chicken.jpg": "/static/media/chicken.f709869d3424f1374d32.jpg",
+    "static/media/derek.png": "/static/media/derek.79aa9acd6653d8da294c.png",
+    "static/media/Tvr_lib_icon.ico": "/static/media/Tvr_lib_icon.058c447d7f6d52250c66.ico",
+    "static/media/roast_turkey_dinner.jpg": "/static/media/roast_turkey_dinner.db750a574ee57d0888e0.jpg",
+    "static/media/NoSong.png": "/static/media/NoSong.fa77937a0d539ca2964a.png",
+    "static/media/artistPicPlaceholder.png": "/static/media/artistPicPlaceholder.e6fabaf668f6c28b91cc.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/Trv_likeIcon_outline.svg": "/static/media/Trv_likeIcon_outline.4670a594c94d0978d904a3b413129379.svg",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.6bef2d45.css.map": "/static/css/main.6bef2d45.css.map",
+    "main.54ea0a77.js.map": "/static/js/main.54ea0a77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bef2d45.css",
+    "static/js/main.54ea0a77.js"
+  ]
+}
